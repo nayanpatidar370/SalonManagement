@@ -1,2 +1,1 @@
-# SaloonManagement
-The Ultimate Saloon Management System
+The Ultimate Salon Booking System
