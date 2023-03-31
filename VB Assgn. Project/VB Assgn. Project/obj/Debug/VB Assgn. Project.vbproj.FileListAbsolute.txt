@@ -13,3 +13,18 @@ D:\BCA Sem 4\Saloon Booking System\VB Assgn. Project\VB Assgn. Project\obj\Debug
 D:\BCA Sem 4\Saloon Booking System\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.pdb
 D:\BCA Sem 4\Saloon Booking System\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Form2.resources
 D:\BCA Sem 4\Saloon Booking System\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Form3.resources
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\bin\Debug\VB_Assgn.Project.exe.config
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\bin\Debug\VB_Assgn.Project.exe
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\bin\Debug\VB_Assgn.Project.pdb
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\bin\Debug\VB_Assgn.Project.xml
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB Assgn. Project.vbproj.AssemblyReference.cache
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB Assgn. Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Form1.resources
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Form2.resources
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Form3.resources
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.Resources.resources
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB Assgn. Project.vbproj.GenerateResource.cache
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB Assgn. Project.vbproj.CoreCompileInputs.cache
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.exe
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.xml
+C:\Users\nayan\Source\Repos\SalonManagement\VB Assgn. Project\VB Assgn. Project\obj\Debug\VB_Assgn.Project.pdb
