@@ -22,6 +22,7 @@ Partial Class Form3
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form3))
         Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
         Me.Button2 = New Guna.UI2.WinForms.Guna2GradientButton()
@@ -50,6 +51,14 @@ Partial Class Form3
         Me.Guna2GradientPanel3 = New Guna.UI2.WinForms.Guna2GradientPanel()
         Me.Guna2HtmlLabel8 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2ComboBox2 = New Guna.UI2.WinForms.Guna2ComboBox()
+        Me.Guna2BorderlessForm1 = New Guna.UI2.WinForms.Guna2BorderlessForm(Me.components)
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         CType(Me.Guna2PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Guna2PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -486,6 +495,71 @@ Partial Class Form3
         Me.Guna2ComboBox2.TabIndex = 21
         Me.Guna2ComboBox2.TextOffset = New System.Drawing.Point(0, 2)
         '
+        'Guna2BorderlessForm1
+        '
+        Me.Guna2BorderlessForm1.ContainerControl = Me
+        Me.Guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6R
+        Me.Guna2BorderlessForm1.TransparentWhileDrag = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(1196, 162)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(67, 16)
+        Me.Label1.TabIndex = 25
+        Me.Label1.Text = "Barber ID:"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(1303, 156)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(191, 22)
+        Me.TextBox1.TabIndex = 26
+        '
+        'TextBox2
+        '
+        Me.TextBox2.Location = New System.Drawing.Point(1303, 184)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(191, 22)
+        Me.TextBox2.TabIndex = 28
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(1196, 190)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(91, 16)
+        Me.Label2.TabIndex = 27
+        Me.Label2.Text = "Barber Name:"
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(1567, 133)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(89, 23)
+        Me.Button3.TabIndex = 39
+        Me.Button3.Text = "ADD"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(1567, 201)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(89, 23)
+        Me.Button5.TabIndex = 41
+        Me.Button5.Text = "NEXT"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(1567, 163)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(89, 23)
+        Me.Button4.TabIndex = 40
+        Me.Button4.Text = "PREVIOUS"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -493,6 +567,13 @@ Partial Class Form3
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.ClientSize = New System.Drawing.Size(1882, 953)
+        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.Button4)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.TextBox2)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Guna2GradientPanel3)
         Me.Controls.Add(Me.Guna2GradientPanel2)
         Me.Controls.Add(Me.Guna2GradientPanel1)
@@ -503,6 +584,7 @@ Partial Class Form3
         Me.Controls.Add(Me.Guna2GradientButton2)
         Me.Controls.Add(Me.Home)
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "Form3"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -553,4 +635,12 @@ Partial Class Form3
     Friend WithEvents Guna2GradientPanel3 As Guna.UI2.WinForms.Guna2GradientPanel
     Friend WithEvents Guna2HtmlLabel8 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2ComboBox2 As Guna.UI2.WinForms.Guna2ComboBox
+    Friend WithEvents Guna2BorderlessForm1 As Guna.UI2.WinForms.Guna2BorderlessForm
+    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents Label2 As Label
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Button5 As Button
+    Friend WithEvents Button4 As Button
+    Friend WithEvents Button3 As Button
 End Class
