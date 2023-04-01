@@ -1,0 +1,17 @@
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\bin\Debug\Salon-Booking-System.exe.config
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\bin\Debug\Salon-Booking-System.exe
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\bin\Debug\Salon-Booking-System.pdb
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\bin\Debug\Salon-Booking-System.xml
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.vbproj.AssemblyReference.cache
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.vbproj.SuggestedBindingRedirects.cache
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon_Booking_System.Form1.resources
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon_Booking_System.Form2.resources
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon_Booking_System.Form3.resources
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon_Booking_System.Resources.resources
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.vbproj.GenerateResource.cache
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.vbproj.CoreCompileInputs.cache
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.exe
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.xml
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.pdb
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\bin\Debug\Guna.UI2.dll
+D:\BCA Sem 4\Salon-Booking-Sytem\Salon-Booking-System\Salon-Booking-System\obj\Debug\Salon-Booking-System.vbproj.CopyComplete
