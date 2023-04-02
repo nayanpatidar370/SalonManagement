@@ -31,6 +31,7 @@ Partial Class Form1
         '
         'Button2
         '
+        Me.Button2.Animated = True
         Me.Button2.BackColor = System.Drawing.Color.Transparent
         Me.Button2.BorderRadius = 25
         Me.Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray
@@ -40,7 +41,7 @@ Partial Class Form1
         Me.Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Button2.FillColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
         Me.Button2.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.Button2.Font = New System.Drawing.Font("Rockwell", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Rockwell", 22.2!)
         Me.Button2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Button2.Location = New System.Drawing.Point(116, 757)
         Me.Button2.Name = "Button2"
@@ -65,8 +66,9 @@ Partial Class Form1
         '
         'Button1
         '
+        Me.Button1.Animated = True
         Me.Button1.BackColor = System.Drawing.Color.Transparent
-        Me.Button1.BorderRadius = 25
+        Me.Button1.BorderRadius = 30
         Me.Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
         Me.Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
@@ -74,7 +76,7 @@ Partial Class Form1
         Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Button1.FillColor = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.Button1.Font = New System.Drawing.Font("Rockwell", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Rockwell", 12.0!)
         Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
         Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
         Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
