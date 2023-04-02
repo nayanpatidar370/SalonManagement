@@ -41,7 +41,7 @@ Partial Class Form1
         Me.Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Button2.FillColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
         Me.Button2.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.Button2.Font = New System.Drawing.Font("Rockwell", 22.2!)
+        Me.Button2.Font = New System.Drawing.Font("Solway", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Button2.Location = New System.Drawing.Point(116, 757)
         Me.Button2.Name = "Button2"
@@ -76,7 +76,7 @@ Partial Class Form1
         Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Button1.FillColor = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.Button1.Font = New System.Drawing.Font("Rockwell", 12.0!)
+        Me.Button1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
         Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
         Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
@@ -101,6 +101,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Guna2CirclePictureBox1)
         Me.Controls.Add(Me.Button2)
         Me.DoubleBuffered = True
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "KNK Salon"

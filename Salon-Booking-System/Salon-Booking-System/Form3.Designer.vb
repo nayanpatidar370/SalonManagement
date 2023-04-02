@@ -33,37 +33,38 @@ Partial Class Form3
         Me.Guna2GradientPanel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
         Me.Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2GradientPanel4 = New Guna.UI2.WinForms.Guna2GradientPanel()
+        Me.Panel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
+        Me.Guna2GradientButton5 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2GradientButton4 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2GradientButton3 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2GradientButton1 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Button1 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.ReChoose = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2GradientPanel2 = New Guna.UI2.WinForms.Guna2GradientPanel()
         Me.Guna2DateTimePicker1 = New Guna.UI2.WinForms.Guna2DateTimePicker()
         Me.Guna2HtmlLabel4 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Guna2PictureBox10 = New Guna.UI2.WinForms.Guna2PictureBox()
         Me.GroupBox1 = New Guna.UI2.WinForms.Guna2GroupBox()
+        Me.Guna2HtmlLabel8 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2HtmlLabel6 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Guna2PictureBox10 = New Guna.UI2.WinForms.Guna2PictureBox()
         Me.Groupbox2 = New Guna.UI2.WinForms.Guna2GroupBox()
+        Me.Guna2GradientButton8 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2GradientButton9 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2GradientButton11 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2GradientButton7 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2GradientButton6 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2GradientButton10 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton8 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton9 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton11 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Button1 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Panel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
-        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.ReChoose = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2AnimateWindow1 = New Guna.UI2.WinForms.Guna2AnimateWindow(Me.components)
-        Me.Guna2GradientButton1 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton3 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton4 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2GradientButton5 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2GradientPanel1.SuspendLayout()
         Me.Guna2GradientPanel4.SuspendLayout()
-        Me.Guna2GradientPanel2.SuspendLayout()
-        CType(Me.Guna2PictureBox10, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox1.SuspendLayout()
-        Me.Groupbox2.SuspendLayout()
         Me.Panel1.SuspendLayout()
+        Me.Guna2GradientPanel2.SuspendLayout()
+        Me.GroupBox1.SuspendLayout()
+        CType(Me.Guna2PictureBox10, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Groupbox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'Button2
@@ -78,7 +79,7 @@ Partial Class Form3
         Me.Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
         Me.Button2.FillColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
         Me.Button2.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Button2.Font = New System.Drawing.Font("Rockwell", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Solway", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Button2.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
         Me.Button2.Location = New System.Drawing.Point(467, 616)
@@ -164,7 +165,7 @@ Partial Class Form3
         Me.Guna2ComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.Guna2ComboBox1.FocusedColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
         Me.Guna2ComboBox1.FocusedState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Guna2ComboBox1.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2ComboBox1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2ComboBox1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
         Me.Guna2ComboBox1.ItemHeight = 30
         Me.Guna2ComboBox1.Items.AddRange(New Object() {"Haircut", "Shave", "SkinCare"})
@@ -195,11 +196,11 @@ Partial Class Form3
         'Guna2HtmlLabel5
         '
         Me.Guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel5.Font = New System.Drawing.Font("Rockwell", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel5.Font = New System.Drawing.Font("Solway", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Guna2HtmlLabel5.Location = New System.Drawing.Point(29, 47)
         Me.Guna2HtmlLabel5.Name = "Guna2HtmlLabel5"
-        Me.Guna2HtmlLabel5.Size = New System.Drawing.Size(251, 37)
+        Me.Guna2HtmlLabel5.Size = New System.Drawing.Size(256, 44)
         Me.Guna2HtmlLabel5.TabIndex = 9
         Me.Guna2HtmlLabel5.Text = "Choose Services :"
         '
@@ -226,6 +227,209 @@ Partial Class Form3
         Me.Guna2GradientPanel4.ShadowDecoration.Enabled = True
         Me.Guna2GradientPanel4.Size = New System.Drawing.Size(1297, 787)
         Me.Guna2GradientPanel4.TabIndex = 23
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.Transparent
+        Me.Panel1.BorderRadius = 30
+        Me.Panel1.Controls.Add(Me.Guna2GradientButton5)
+        Me.Panel1.Controls.Add(Me.Guna2GradientButton4)
+        Me.Panel1.Controls.Add(Me.Guna2GradientButton3)
+        Me.Panel1.Controls.Add(Me.Guna2GradientButton1)
+        Me.Panel1.Controls.Add(Me.Guna2HtmlLabel3)
+        Me.Panel1.Controls.Add(Me.Button1)
+        Me.Panel1.FillColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Panel1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Panel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
+        Me.Panel1.Location = New System.Drawing.Point(53, 59)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.ShadowDecoration.BorderRadius = 30
+        Me.Panel1.ShadowDecoration.Depth = 20
+        Me.Panel1.ShadowDecoration.Enabled = True
+        Me.Panel1.Size = New System.Drawing.Size(1190, 318)
+        Me.Panel1.TabIndex = 0
+        '
+        'Guna2GradientButton5
+        '
+        Me.Guna2GradientButton5.Animated = True
+        Me.Guna2GradientButton5.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton5.BorderRadius = 10
+        Me.Guna2GradientButton5.BorderThickness = 3
+        Me.Guna2GradientButton5.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton5.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton5.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton5.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton5.FillColor2 = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton5.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton5.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton5.Image = CType(resources.GetObject("Guna2GradientButton5.Image"), System.Drawing.Image)
+        Me.Guna2GradientButton5.ImageOffset = New System.Drawing.Point(19, -15)
+        Me.Guna2GradientButton5.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Guna2GradientButton5.Location = New System.Drawing.Point(967, 79)
+        Me.Guna2GradientButton5.Name = "Guna2GradientButton5"
+        Me.Guna2GradientButton5.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton5.ShadowDecoration.Depth = 10
+        Me.Guna2GradientButton5.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton5.Size = New System.Drawing.Size(174, 194)
+        Me.Guna2GradientButton5.TabIndex = 13
+        Me.Guna2GradientButton5.Text = "Mohit"
+        Me.Guna2GradientButton5.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Guna2GradientButton4
+        '
+        Me.Guna2GradientButton4.Animated = True
+        Me.Guna2GradientButton4.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton4.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton4.BorderRadius = 10
+        Me.Guna2GradientButton4.BorderThickness = 3
+        Me.Guna2GradientButton4.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton4.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton4.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton4.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton4.FillColor2 = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton4.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton4.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton4.Image = CType(resources.GetObject("Guna2GradientButton4.Image"), System.Drawing.Image)
+        Me.Guna2GradientButton4.ImageOffset = New System.Drawing.Point(22, -15)
+        Me.Guna2GradientButton4.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Guna2GradientButton4.Location = New System.Drawing.Point(739, 79)
+        Me.Guna2GradientButton4.Name = "Guna2GradientButton4"
+        Me.Guna2GradientButton4.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton4.ShadowDecoration.Depth = 10
+        Me.Guna2GradientButton4.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton4.Size = New System.Drawing.Size(174, 194)
+        Me.Guna2GradientButton4.TabIndex = 12
+        Me.Guna2GradientButton4.Text = "Jasprit"
+        Me.Guna2GradientButton4.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Guna2GradientButton3
+        '
+        Me.Guna2GradientButton3.Animated = True
+        Me.Guna2GradientButton3.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton3.BorderRadius = 10
+        Me.Guna2GradientButton3.BorderThickness = 3
+        Me.Guna2GradientButton3.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton3.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton3.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton3.FillColor2 = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton3.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton3.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton3.Image = CType(resources.GetObject("Guna2GradientButton3.Image"), System.Drawing.Image)
+        Me.Guna2GradientButton3.ImageOffset = New System.Drawing.Point(24, -15)
+        Me.Guna2GradientButton3.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Guna2GradientButton3.Location = New System.Drawing.Point(511, 79)
+        Me.Guna2GradientButton3.Name = "Guna2GradientButton3"
+        Me.Guna2GradientButton3.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton3.ShadowDecoration.Depth = 10
+        Me.Guna2GradientButton3.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton3.Size = New System.Drawing.Size(174, 194)
+        Me.Guna2GradientButton3.TabIndex = 11
+        Me.Guna2GradientButton3.Text = "Nimesh"
+        Me.Guna2GradientButton3.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Guna2GradientButton1
+        '
+        Me.Guna2GradientButton1.Animated = True
+        Me.Guna2GradientButton1.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton1.BorderRadius = 10
+        Me.Guna2GradientButton1.BorderThickness = 3
+        Me.Guna2GradientButton1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton1.FillColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton1.FillColor2 = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton1.Image = CType(resources.GetObject("Guna2GradientButton1.Image"), System.Drawing.Image)
+        Me.Guna2GradientButton1.ImageOffset = New System.Drawing.Point(26, -15)
+        Me.Guna2GradientButton1.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Guna2GradientButton1.Location = New System.Drawing.Point(277, 79)
+        Me.Guna2GradientButton1.Name = "Guna2GradientButton1"
+        Me.Guna2GradientButton1.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton1.ShadowDecoration.Depth = 10
+        Me.Guna2GradientButton1.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton1.Size = New System.Drawing.Size(174, 194)
+        Me.Guna2GradientButton1.TabIndex = 10
+        Me.Guna2GradientButton1.Text = "Lakshya"
+        Me.Guna2GradientButton1.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Guna2HtmlLabel3
+        '
+        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Solway", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(45, 20)
+        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
+        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(217, 41)
+        Me.Guna2HtmlLabel3.TabIndex = 9
+        Me.Guna2HtmlLabel3.Text = "Choose Barber :"
+        '
+        'Button1
+        '
+        Me.Button1.Animated = True
+        Me.Button1.BackColor = System.Drawing.Color.Transparent
+        Me.Button1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button1.BorderRadius = 10
+        Me.Button1.BorderThickness = 3
+        Me.Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button1.FillColor = System.Drawing.Color.Transparent
+        Me.Button1.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
+        Me.Button1.ImageOffset = New System.Drawing.Point(19, -15)
+        Me.Button1.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button1.Location = New System.Drawing.Point(46, 79)
+        Me.Button1.Name = "Button1"
+        Me.Button1.ShadowDecoration.BorderRadius = 10
+        Me.Button1.ShadowDecoration.Depth = 10
+        Me.Button1.ShadowDecoration.Enabled = True
+        Me.Button1.Size = New System.Drawing.Size(174, 194)
+        Me.Button1.TabIndex = 7
+        Me.Button1.Text = "Mohit"
+        Me.Button1.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'ReChoose
+        '
+        Me.ReChoose.Animated = True
+        Me.ReChoose.BackColor = System.Drawing.Color.Transparent
+        Me.ReChoose.BorderRadius = 10
+        Me.ReChoose.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.ReChoose.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.ReChoose.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.ReChoose.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.ReChoose.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.ReChoose.FillColor = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.ReChoose.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
+        Me.ReChoose.Font = New System.Drawing.Font("Rockwell", 12.0!)
+        Me.ReChoose.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.ReChoose.Image = CType(resources.GetObject("ReChoose.Image"), System.Drawing.Image)
+        Me.ReChoose.ImageSize = New System.Drawing.Size(25, 25)
+        Me.ReChoose.Location = New System.Drawing.Point(53, 59)
+        Me.ReChoose.Name = "ReChoose"
+        Me.ReChoose.Size = New System.Drawing.Size(39, 42)
+        Me.ReChoose.TabIndex = 24
         '
         'Guna2GradientPanel2
         '
@@ -265,37 +469,13 @@ Partial Class Form3
         'Guna2HtmlLabel4
         '
         Me.Guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel4.Font = New System.Drawing.Font("Rockwell", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel4.Font = New System.Drawing.Font("Solway", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Guna2HtmlLabel4.Location = New System.Drawing.Point(27, 47)
         Me.Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
-        Me.Guna2HtmlLabel4.Size = New System.Drawing.Size(197, 37)
+        Me.Guna2HtmlLabel4.Size = New System.Drawing.Size(203, 44)
         Me.Guna2HtmlLabel4.TabIndex = 9
         Me.Guna2HtmlLabel4.Text = "Choose Date :"
-        '
-        'Guna2HtmlLabel7
-        '
-        Me.Guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel7.Font = New System.Drawing.Font("Rockwell", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
-        Me.Guna2HtmlLabel7.Location = New System.Drawing.Point(13, 23)
-        Me.Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
-        Me.Guna2HtmlLabel7.Size = New System.Drawing.Size(161, 31)
-        Me.Guna2HtmlLabel7.TabIndex = 9
-        Me.Guna2HtmlLabel7.Text = "Choose Date :"
-        '
-        'Guna2PictureBox10
-        '
-        Me.Guna2PictureBox10.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2PictureBox10.BorderRadius = 10
-        Me.Guna2PictureBox10.Image = CType(resources.GetObject("Guna2PictureBox10.Image"), System.Drawing.Image)
-        Me.Guna2PictureBox10.ImageRotate = 0!
-        Me.Guna2PictureBox10.Location = New System.Drawing.Point(42, 80)
-        Me.Guna2PictureBox10.Name = "Guna2PictureBox10"
-        Me.Guna2PictureBox10.Size = New System.Drawing.Size(180, 180)
-        Me.Guna2PictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.Guna2PictureBox10.TabIndex = 8
-        Me.Guna2PictureBox10.TabStop = False
         '
         'GroupBox1
         '
@@ -303,6 +483,7 @@ Partial Class Form3
         Me.GroupBox1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.GroupBox1.BorderRadius = 20
         Me.GroupBox1.BorderThickness = 0
+        Me.GroupBox1.Controls.Add(Me.Guna2HtmlLabel8)
         Me.GroupBox1.Controls.Add(Me.Guna2HtmlLabel6)
         Me.GroupBox1.Controls.Add(Me.Guna2PictureBox10)
         Me.GroupBox1.CustomBorderColor = System.Drawing.Color.Transparent
@@ -317,16 +498,40 @@ Partial Class Form3
         Me.GroupBox1.Size = New System.Drawing.Size(263, 301)
         Me.GroupBox1.TabIndex = 24
         '
+        'Guna2HtmlLabel8
+        '
+        Me.Guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel8.Font = New System.Drawing.Font("Solway", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2HtmlLabel8.Location = New System.Drawing.Point(96, 244)
+        Me.Guna2HtmlLabel8.Name = "Guna2HtmlLabel8"
+        Me.Guna2HtmlLabel8.Size = New System.Drawing.Size(74, 37)
+        Me.Guna2HtmlLabel8.TabIndex = 10
+        Me.Guna2HtmlLabel8.Text = "Mohit"
+        '
         'Guna2HtmlLabel6
         '
         Me.Guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel6.Font = New System.Drawing.Font("Rockwell", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel6.Font = New System.Drawing.Font("Solway", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
         Me.Guna2HtmlLabel6.Location = New System.Drawing.Point(55, 20)
         Me.Guna2HtmlLabel6.Name = "Guna2HtmlLabel6"
-        Me.Guna2HtmlLabel6.Size = New System.Drawing.Size(161, 33)
+        Me.Guna2HtmlLabel6.Size = New System.Drawing.Size(169, 41)
         Me.Guna2HtmlLabel6.TabIndex = 9
         Me.Guna2HtmlLabel6.Text = "Your Barber"
+        '
+        'Guna2PictureBox10
+        '
+        Me.Guna2PictureBox10.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2PictureBox10.BorderRadius = 10
+        Me.Guna2PictureBox10.Image = CType(resources.GetObject("Guna2PictureBox10.Image"), System.Drawing.Image)
+        Me.Guna2PictureBox10.ImageRotate = 0!
+        Me.Guna2PictureBox10.Location = New System.Drawing.Point(51, 73)
+        Me.Guna2PictureBox10.Name = "Guna2PictureBox10"
+        Me.Guna2PictureBox10.Size = New System.Drawing.Size(160, 160)
+        Me.Guna2PictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.Guna2PictureBox10.TabIndex = 8
+        Me.Guna2PictureBox10.TabStop = False
         '
         'Groupbox2
         '
@@ -352,101 +557,6 @@ Partial Class Form3
         Me.Groupbox2.ShadowDecoration.Enabled = True
         Me.Groupbox2.Size = New System.Drawing.Size(776, 301)
         Me.Groupbox2.TabIndex = 25
-        '
-        'Guna2GradientButton7
-        '
-        Me.Guna2GradientButton7.Animated = True
-        Me.Guna2GradientButton7.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Guna2GradientButton7.BorderRadius = 10
-        Me.Guna2GradientButton7.BorderThickness = 1
-        Me.Guna2GradientButton7.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton7.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton7.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton7.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton7.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton7.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.Guna2GradientButton7.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton7.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2GradientButton7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
-        Me.Guna2GradientButton7.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton7.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Guna2GradientButton7.ImageSize = New System.Drawing.Size(0, 0)
-        Me.Guna2GradientButton7.Location = New System.Drawing.Point(543, 84)
-        Me.Guna2GradientButton7.Name = "Guna2GradientButton7"
-        Me.Guna2GradientButton7.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton7.ShadowDecoration.Depth = 5
-        Me.Guna2GradientButton7.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton7.Size = New System.Drawing.Size(197, 71)
-        Me.Guna2GradientButton7.TabIndex = 18
-        Me.Guna2GradientButton7.Text = "16:00 - 17:00"
-        '
-        'Guna2GradientButton6
-        '
-        Me.Guna2GradientButton6.Animated = True
-        Me.Guna2GradientButton6.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Guna2GradientButton6.BorderRadius = 10
-        Me.Guna2GradientButton6.BorderThickness = 1
-        Me.Guna2GradientButton6.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton6.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton6.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton6.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.Guna2GradientButton6.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton6.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2GradientButton6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
-        Me.Guna2GradientButton6.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton6.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Guna2GradientButton6.ImageSize = New System.Drawing.Size(0, 0)
-        Me.Guna2GradientButton6.Location = New System.Drawing.Point(290, 84)
-        Me.Guna2GradientButton6.Name = "Guna2GradientButton6"
-        Me.Guna2GradientButton6.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton6.ShadowDecoration.Depth = 5
-        Me.Guna2GradientButton6.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton6.Size = New System.Drawing.Size(197, 71)
-        Me.Guna2GradientButton6.TabIndex = 17
-        Me.Guna2GradientButton6.Text = "11:00 - 12:00"
-        '
-        'Guna2HtmlLabel9
-        '
-        Me.Guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel9.Font = New System.Drawing.Font("Rockwell", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel9.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2HtmlLabel9.Location = New System.Drawing.Point(33, 20)
-        Me.Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
-        Me.Guna2HtmlLabel9.Size = New System.Drawing.Size(279, 33)
-        Me.Guna2HtmlLabel9.TabIndex = 16
-        Me.Guna2HtmlLabel9.Text = "Available Time Slots :"
-        '
-        'Guna2GradientButton10
-        '
-        Me.Guna2GradientButton10.Animated = True
-        Me.Guna2GradientButton10.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Guna2GradientButton10.BorderRadius = 10
-        Me.Guna2GradientButton10.BorderThickness = 1
-        Me.Guna2GradientButton10.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton10.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton10.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton10.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton10.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton10.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.Guna2GradientButton10.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton10.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2GradientButton10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
-        Me.Guna2GradientButton10.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton10.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Guna2GradientButton10.ImageSize = New System.Drawing.Size(0, 0)
-        Me.Guna2GradientButton10.Location = New System.Drawing.Point(34, 84)
-        Me.Guna2GradientButton10.Name = "Guna2GradientButton10"
-        Me.Guna2GradientButton10.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton10.ShadowDecoration.Depth = 5
-        Me.Guna2GradientButton10.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton10.Size = New System.Drawing.Size(197, 71)
-        Me.Guna2GradientButton10.TabIndex = 15
-        Me.Guna2GradientButton10.Text = "10:00 - 11:00"
         '
         'Guna2GradientButton8
         '
@@ -532,208 +642,111 @@ Partial Class Form3
         Me.Guna2GradientButton11.TabIndex = 19
         Me.Guna2GradientButton11.Text = "17:00 - 18:00"
         '
-        'Button1
+        'Guna2GradientButton7
         '
-        Me.Button1.Animated = True
-        Me.Button1.BackColor = System.Drawing.Color.Transparent
-        Me.Button1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button1.BorderRadius = 10
-        Me.Button1.BorderThickness = 3
-        Me.Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button1.FillColor = System.Drawing.Color.Transparent
-        Me.Button1.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button1.Font = New System.Drawing.Font("Rockwell", 13.8!)
-        Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
-        Me.Button1.ImageOffset = New System.Drawing.Point(18, -15)
-        Me.Button1.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button1.Location = New System.Drawing.Point(46, 79)
-        Me.Button1.Name = "Button1"
-        Me.Button1.ShadowDecoration.BorderRadius = 10
-        Me.Button1.ShadowDecoration.Depth = 10
-        Me.Button1.ShadowDecoration.Enabled = True
-        Me.Button1.Size = New System.Drawing.Size(174, 194)
-        Me.Button1.TabIndex = 7
-        Me.Button1.Text = "Mohit"
-        Me.Button1.TextOffset = New System.Drawing.Point(-30, 68)
+        Me.Guna2GradientButton7.Animated = True
+        Me.Guna2GradientButton7.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Guna2GradientButton7.BorderRadius = 10
+        Me.Guna2GradientButton7.BorderThickness = 1
+        Me.Guna2GradientButton7.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton7.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton7.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton7.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton7.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton7.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
+        Me.Guna2GradientButton7.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton7.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.Guna2GradientButton7.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton7.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Guna2GradientButton7.ImageSize = New System.Drawing.Size(0, 0)
+        Me.Guna2GradientButton7.Location = New System.Drawing.Point(543, 84)
+        Me.Guna2GradientButton7.Name = "Guna2GradientButton7"
+        Me.Guna2GradientButton7.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton7.ShadowDecoration.Depth = 5
+        Me.Guna2GradientButton7.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton7.Size = New System.Drawing.Size(197, 71)
+        Me.Guna2GradientButton7.TabIndex = 18
+        Me.Guna2GradientButton7.Text = "16:00 - 17:00"
         '
-        'Panel1
+        'Guna2GradientButton6
         '
-        Me.Panel1.BackColor = System.Drawing.Color.Transparent
-        Me.Panel1.BorderRadius = 30
-        Me.Panel1.Controls.Add(Me.Guna2GradientButton5)
-        Me.Panel1.Controls.Add(Me.Guna2GradientButton4)
-        Me.Panel1.Controls.Add(Me.Guna2GradientButton3)
-        Me.Panel1.Controls.Add(Me.Guna2GradientButton1)
-        Me.Panel1.Controls.Add(Me.Guna2HtmlLabel3)
-        Me.Panel1.Controls.Add(Me.Button1)
-        Me.Panel1.FillColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Panel1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Panel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
-        Me.Panel1.Location = New System.Drawing.Point(53, 57)
-        Me.Panel1.Name = "Panel1"
-        Me.Panel1.ShadowDecoration.BorderRadius = 30
-        Me.Panel1.ShadowDecoration.Depth = 20
-        Me.Panel1.ShadowDecoration.Enabled = True
-        Me.Panel1.Size = New System.Drawing.Size(1190, 318)
-        Me.Panel1.TabIndex = 0
+        Me.Guna2GradientButton6.Animated = True
+        Me.Guna2GradientButton6.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Guna2GradientButton6.BorderRadius = 10
+        Me.Guna2GradientButton6.BorderThickness = 1
+        Me.Guna2GradientButton6.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton6.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton6.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton6.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
+        Me.Guna2GradientButton6.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton6.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.Guna2GradientButton6.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton6.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Guna2GradientButton6.ImageSize = New System.Drawing.Size(0, 0)
+        Me.Guna2GradientButton6.Location = New System.Drawing.Point(290, 84)
+        Me.Guna2GradientButton6.Name = "Guna2GradientButton6"
+        Me.Guna2GradientButton6.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton6.ShadowDecoration.Depth = 5
+        Me.Guna2GradientButton6.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton6.Size = New System.Drawing.Size(197, 71)
+        Me.Guna2GradientButton6.TabIndex = 17
+        Me.Guna2GradientButton6.Text = "11:00 - 12:00"
         '
-        'Guna2HtmlLabel3
+        'Guna2HtmlLabel9
         '
-        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Rockwell", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(45, 20)
-        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
-        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(212, 33)
-        Me.Guna2HtmlLabel3.TabIndex = 9
-        Me.Guna2HtmlLabel3.Text = "Choose Barber :"
+        Me.Guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel9.Font = New System.Drawing.Font("Solway", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel9.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2HtmlLabel9.Location = New System.Drawing.Point(33, 20)
+        Me.Guna2HtmlLabel9.Name = "Guna2HtmlLabel9"
+        Me.Guna2HtmlLabel9.Size = New System.Drawing.Size(294, 41)
+        Me.Guna2HtmlLabel9.TabIndex = 16
+        Me.Guna2HtmlLabel9.Text = "Available Time Slots :"
         '
-        'ReChoose
+        'Guna2GradientButton10
         '
-        Me.ReChoose.Animated = True
-        Me.ReChoose.BackColor = System.Drawing.Color.Transparent
-        Me.ReChoose.BorderRadius = 10
-        Me.ReChoose.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.ReChoose.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.ReChoose.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.ReChoose.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.ReChoose.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.ReChoose.FillColor = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(151, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.ReChoose.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
-        Me.ReChoose.Font = New System.Drawing.Font("Rockwell", 12.0!)
-        Me.ReChoose.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
-        Me.ReChoose.Image = CType(resources.GetObject("ReChoose.Image"), System.Drawing.Image)
-        Me.ReChoose.ImageSize = New System.Drawing.Size(25, 25)
-        Me.ReChoose.Location = New System.Drawing.Point(53, 59)
-        Me.ReChoose.Name = "ReChoose"
-        Me.ReChoose.Size = New System.Drawing.Size(39, 42)
-        Me.ReChoose.TabIndex = 24
+        Me.Guna2GradientButton10.Animated = True
+        Me.Guna2GradientButton10.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2GradientButton10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Guna2GradientButton10.BorderRadius = 10
+        Me.Guna2GradientButton10.BorderThickness = 1
+        Me.Guna2GradientButton10.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton10.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Guna2GradientButton10.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton10.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Guna2GradientButton10.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Guna2GradientButton10.FillColor = System.Drawing.Color.FromArgb(CType(CType(216, Byte), Integer), CType(CType(185, Byte), Integer), CType(CType(132, Byte), Integer))
+        Me.Guna2GradientButton10.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2GradientButton10.Font = New System.Drawing.Font("Rockwell", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2GradientButton10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(39, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.Guna2GradientButton10.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Guna2GradientButton10.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Guna2GradientButton10.ImageSize = New System.Drawing.Size(0, 0)
+        Me.Guna2GradientButton10.Location = New System.Drawing.Point(34, 84)
+        Me.Guna2GradientButton10.Name = "Guna2GradientButton10"
+        Me.Guna2GradientButton10.ShadowDecoration.BorderRadius = 10
+        Me.Guna2GradientButton10.ShadowDecoration.Depth = 5
+        Me.Guna2GradientButton10.ShadowDecoration.Enabled = True
+        Me.Guna2GradientButton10.Size = New System.Drawing.Size(197, 71)
+        Me.Guna2GradientButton10.TabIndex = 15
+        Me.Guna2GradientButton10.Text = "10:00 - 11:00"
         '
-        'Guna2GradientButton1
+        'Guna2HtmlLabel7
         '
-        Me.Guna2GradientButton1.Animated = True
-        Me.Guna2GradientButton1.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton1.BorderRadius = 10
-        Me.Guna2GradientButton1.BorderThickness = 3
-        Me.Guna2GradientButton1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton1.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton1.FillColor2 = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton1.Font = New System.Drawing.Font("Rockwell", 13.8!)
-        Me.Guna2GradientButton1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton1.Image = CType(resources.GetObject("Guna2GradientButton1.Image"), System.Drawing.Image)
-        Me.Guna2GradientButton1.ImageOffset = New System.Drawing.Point(24, -15)
-        Me.Guna2GradientButton1.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Guna2GradientButton1.Location = New System.Drawing.Point(277, 79)
-        Me.Guna2GradientButton1.Name = "Guna2GradientButton1"
-        Me.Guna2GradientButton1.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton1.ShadowDecoration.Depth = 10
-        Me.Guna2GradientButton1.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton1.Size = New System.Drawing.Size(174, 194)
-        Me.Guna2GradientButton1.TabIndex = 10
-        Me.Guna2GradientButton1.Text = "Lakshya"
-        Me.Guna2GradientButton1.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Guna2GradientButton3
-        '
-        Me.Guna2GradientButton3.Animated = True
-        Me.Guna2GradientButton3.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton3.BorderRadius = 10
-        Me.Guna2GradientButton3.BorderThickness = 3
-        Me.Guna2GradientButton3.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton3.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton3.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton3.FillColor2 = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton3.Font = New System.Drawing.Font("Rockwell", 13.8!)
-        Me.Guna2GradientButton3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton3.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton3.Image = CType(resources.GetObject("Guna2GradientButton3.Image"), System.Drawing.Image)
-        Me.Guna2GradientButton3.ImageOffset = New System.Drawing.Point(23, -15)
-        Me.Guna2GradientButton3.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Guna2GradientButton3.Location = New System.Drawing.Point(511, 79)
-        Me.Guna2GradientButton3.Name = "Guna2GradientButton3"
-        Me.Guna2GradientButton3.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton3.ShadowDecoration.Depth = 10
-        Me.Guna2GradientButton3.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton3.Size = New System.Drawing.Size(174, 194)
-        Me.Guna2GradientButton3.TabIndex = 11
-        Me.Guna2GradientButton3.Text = "Nimesh"
-        Me.Guna2GradientButton3.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Guna2GradientButton4
-        '
-        Me.Guna2GradientButton4.Animated = True
-        Me.Guna2GradientButton4.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton4.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton4.BorderRadius = 10
-        Me.Guna2GradientButton4.BorderThickness = 3
-        Me.Guna2GradientButton4.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton4.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton4.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton4.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton4.FillColor2 = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton4.Font = New System.Drawing.Font("Rockwell", 13.8!)
-        Me.Guna2GradientButton4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton4.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton4.Image = CType(resources.GetObject("Guna2GradientButton4.Image"), System.Drawing.Image)
-        Me.Guna2GradientButton4.ImageOffset = New System.Drawing.Point(19, -15)
-        Me.Guna2GradientButton4.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Guna2GradientButton4.Location = New System.Drawing.Point(739, 79)
-        Me.Guna2GradientButton4.Name = "Guna2GradientButton4"
-        Me.Guna2GradientButton4.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton4.ShadowDecoration.Depth = 10
-        Me.Guna2GradientButton4.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton4.Size = New System.Drawing.Size(174, 194)
-        Me.Guna2GradientButton4.TabIndex = 12
-        Me.Guna2GradientButton4.Text = "Jasprit"
-        Me.Guna2GradientButton4.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Guna2GradientButton5
-        '
-        Me.Guna2GradientButton5.Animated = True
-        Me.Guna2GradientButton5.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton5.BorderRadius = 10
-        Me.Guna2GradientButton5.BorderThickness = 3
-        Me.Guna2GradientButton5.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Guna2GradientButton5.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton5.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Guna2GradientButton5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Guna2GradientButton5.FillColor = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton5.FillColor2 = System.Drawing.Color.Transparent
-        Me.Guna2GradientButton5.Font = New System.Drawing.Font("Rockwell", 13.8!)
-        Me.Guna2GradientButton5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2GradientButton5.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Guna2GradientButton5.Image = CType(resources.GetObject("Guna2GradientButton5.Image"), System.Drawing.Image)
-        Me.Guna2GradientButton5.ImageOffset = New System.Drawing.Point(18, -15)
-        Me.Guna2GradientButton5.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Guna2GradientButton5.Location = New System.Drawing.Point(967, 79)
-        Me.Guna2GradientButton5.Name = "Guna2GradientButton5"
-        Me.Guna2GradientButton5.ShadowDecoration.BorderRadius = 10
-        Me.Guna2GradientButton5.ShadowDecoration.Depth = 10
-        Me.Guna2GradientButton5.ShadowDecoration.Enabled = True
-        Me.Guna2GradientButton5.Size = New System.Drawing.Size(174, 194)
-        Me.Guna2GradientButton5.TabIndex = 13
-        Me.Guna2GradientButton5.Text = "Mohit"
-        Me.Guna2GradientButton5.TextOffset = New System.Drawing.Point(-30, 68)
+        Me.Guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel7.Font = New System.Drawing.Font("Rockwell", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
+        Me.Guna2HtmlLabel7.Location = New System.Drawing.Point(13, 23)
+        Me.Guna2HtmlLabel7.Name = "Guna2HtmlLabel7"
+        Me.Guna2HtmlLabel7.Size = New System.Drawing.Size(161, 31)
+        Me.Guna2HtmlLabel7.TabIndex = 9
+        Me.Guna2HtmlLabel7.Text = "Choose Date :"
         '
         'Form3
         '
@@ -748,23 +761,24 @@ Partial Class Form3
         Me.Controls.Add(Me.Home)
         Me.Controls.Add(Me.Guna2GradientPanel4)
         Me.DoubleBuffered = True
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "Form3"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Form3"
+        Me.Text = "Booking"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.Guna2GradientPanel1.ResumeLayout(False)
         Me.Guna2GradientPanel1.PerformLayout()
         Me.Guna2GradientPanel4.ResumeLayout(False)
-        Me.Guna2GradientPanel2.ResumeLayout(False)
-        Me.Guna2GradientPanel2.PerformLayout()
-        CType(Me.Guna2PictureBox10, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox1.ResumeLayout(False)
-        Me.GroupBox1.PerformLayout()
-        Me.Groupbox2.ResumeLayout(False)
-        Me.Groupbox2.PerformLayout()
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
+        Me.Guna2GradientPanel2.ResumeLayout(False)
+        Me.Guna2GradientPanel2.PerformLayout()
+        Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox1.PerformLayout()
+        CType(Me.Guna2PictureBox10, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Groupbox2.ResumeLayout(False)
+        Me.Groupbox2.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -806,4 +820,5 @@ Partial Class Form3
     Friend WithEvents Button1 As Guna.UI2.WinForms.Guna2GradientButton
     Friend WithEvents ReChoose As Guna.UI2.WinForms.Guna2GradientButton
     Friend WithEvents Guna2AnimateWindow1 As Guna.UI2.WinForms.Guna2AnimateWindow
+    Friend WithEvents Guna2HtmlLabel8 As Guna.UI2.WinForms.Guna2HtmlLabel
 End Class
