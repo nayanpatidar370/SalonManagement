@@ -524,7 +524,7 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAHpqnnn+P1l+y5o9n20yAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="Guna2GradientButton5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Button6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAiVBJREFUeF69
         /QdYVFnW9o3zPM9MR9uMCZUoGQkSFEyYMOecxYCKCipiwJxzwoQZFDMGEMEECChIlJxBMNt5pmd6ptP9
@@ -1116,7 +1116,7 @@
         RK5CYII=
 </value>
   </data>
-  <data name="Guna2GradientButton4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAhS1JREFUeF7N
         vXdYFUvWNc7MnXvNWTGiICoGUMw555xBBYmKIqIoBgQxBxSzJMGIoBhBUVTMASOCIlEQCUowe3OaWb+9
@@ -1690,7 +1690,7 @@
         4fOcPPx/kYiaxeVjnWoAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="Guna2GradientButton3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAi1lJREFUeF7N
         /QV0HVe2rg3r3NMdTpyYmZkl27JlkMzMzMzMjDKzTDJItgyyZTFZbDEzM7NkjJM46aSTfr93ru1KFLe7
@@ -2290,7 +2290,7 @@
         hGMRYAJVAIuSln0J3wJUOoW8RwPcqFEj/D8jd34Evk+e4wAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="Guna2GradientButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAmepJREFUeF7U
         /WdUVVm3LQxjRlCCgpgABSXnnHPOAoIgImZBUUFAUZQkUQFRMaAEUVBBQYmCRAMqKuZUZktLq55wzrn3
@@ -3576,7 +3576,7 @@
         H2C296K2zPZ1AAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="Guna2PictureBox10.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="SelectedBarber.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAAABGdBTUEAALGPC/xhBQAA6DhJREFUeF7U
         vQdUVOm2ru347zln7927o92tbdvmnHPOgmICE0YEyShRQBRRgoAYMIAICAoqIqIEyUgSkKDknHNO5qxt
@@ -4573,9 +4573,6 @@
         gg==
 </value>
   </data>
-  <metadata name="Guna2AnimateWindow1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAB2wAAAPoCAYAAAASlA4dAAAABGdBTUEAALGPC/xhBQAA/8dJREFUeF7s
