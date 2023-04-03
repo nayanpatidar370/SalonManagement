@@ -32,6 +32,13 @@ Partial Class Form3
         Me.Guna2GradientPanel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
         Me.Guna2HtmlLabel5 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2GradientPanel4 = New Guna.UI2.WinForms.Guna2GradientPanel()
+        Me.Panel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
+        Me.Button6 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Button5 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Button4 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Button3 = New Guna.UI2.WinForms.Guna2GradientButton()
+        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
+        Me.Button1 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.ReChoose = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2GradientPanel2 = New Guna.UI2.WinForms.Guna2GradientPanel()
         Me.Guna2DateTimePicker1 = New Guna.UI2.WinForms.Guna2DateTimePicker()
@@ -48,21 +55,14 @@ Partial Class Form3
         Me.Guna2GradientButton6 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2HtmlLabel9 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2GradientButton10 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Panel1 = New Guna.UI2.WinForms.Guna2GradientPanel()
-        Me.Button6 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Button5 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Button4 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Button3 = New Guna.UI2.WinForms.Guna2GradientButton()
-        Me.Guna2HtmlLabel3 = New Guna.UI2.WinForms.Guna2HtmlLabel()
-        Me.Button1 = New Guna.UI2.WinForms.Guna2GradientButton()
         Me.Guna2HtmlLabel7 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2GradientPanel1.SuspendLayout()
         Me.Guna2GradientPanel4.SuspendLayout()
+        Me.Panel1.SuspendLayout()
         Me.Guna2GradientPanel2.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         CType(Me.SelectedBarber, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Groupbox2.SuspendLayout()
-        Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
         'Button2
@@ -225,6 +225,188 @@ Partial Class Form3
         Me.Guna2GradientPanel4.ShadowDecoration.Enabled = True
         Me.Guna2GradientPanel4.Size = New System.Drawing.Size(1297, 787)
         Me.Guna2GradientPanel4.TabIndex = 23
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.Transparent
+        Me.Panel1.BorderRadius = 30
+        Me.Panel1.Controls.Add(Me.Button6)
+        Me.Panel1.Controls.Add(Me.Button5)
+        Me.Panel1.Controls.Add(Me.Button4)
+        Me.Panel1.Controls.Add(Me.Button3)
+        Me.Panel1.Controls.Add(Me.Guna2HtmlLabel3)
+        Me.Panel1.Controls.Add(Me.Button1)
+        Me.Panel1.FillColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Panel1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
+        Me.Panel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
+        Me.Panel1.Location = New System.Drawing.Point(54, 40)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.ShadowDecoration.BorderRadius = 30
+        Me.Panel1.ShadowDecoration.Depth = 20
+        Me.Panel1.ShadowDecoration.Enabled = True
+        Me.Panel1.Size = New System.Drawing.Size(1190, 318)
+        Me.Panel1.TabIndex = 0
+        '
+        'Button6
+        '
+        Me.Button6.Animated = True
+        Me.Button6.BackColor = System.Drawing.Color.Transparent
+        Me.Button6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button6.BorderRadius = 10
+        Me.Button6.BorderThickness = 3
+        Me.Button6.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button6.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button6.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button6.FillColor = System.Drawing.Color.Transparent
+        Me.Button6.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button6.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button6.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button6.Image = CType(resources.GetObject("Button6.Image"), System.Drawing.Image)
+        Me.Button6.ImageOffset = New System.Drawing.Point(10, -15)
+        Me.Button6.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button6.Location = New System.Drawing.Point(968, 79)
+        Me.Button6.Name = "Button6"
+        Me.Button6.ShadowDecoration.BorderRadius = 10
+        Me.Button6.ShadowDecoration.Depth = 10
+        Me.Button6.ShadowDecoration.Enabled = True
+        Me.Button6.Size = New System.Drawing.Size(174, 194)
+        Me.Button6.TabIndex = 13
+        Me.Button6.Text = "Ali"
+        Me.Button6.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Button5
+        '
+        Me.Button5.Animated = True
+        Me.Button5.BackColor = System.Drawing.Color.Transparent
+        Me.Button5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button5.BorderRadius = 10
+        Me.Button5.BorderThickness = 3
+        Me.Button5.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button5.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button5.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button5.FillColor = System.Drawing.Color.Transparent
+        Me.Button5.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button5.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button5.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button5.Image = CType(resources.GetObject("Button5.Image"), System.Drawing.Image)
+        Me.Button5.ImageOffset = New System.Drawing.Point(22, -15)
+        Me.Button5.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button5.Location = New System.Drawing.Point(740, 79)
+        Me.Button5.Name = "Button5"
+        Me.Button5.ShadowDecoration.BorderRadius = 10
+        Me.Button5.ShadowDecoration.Depth = 10
+        Me.Button5.ShadowDecoration.Enabled = True
+        Me.Button5.Size = New System.Drawing.Size(174, 194)
+        Me.Button5.TabIndex = 12
+        Me.Button5.Text = "Jasprit"
+        Me.Button5.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Button4
+        '
+        Me.Button4.Animated = True
+        Me.Button4.BackColor = System.Drawing.Color.Transparent
+        Me.Button4.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button4.BorderRadius = 10
+        Me.Button4.BorderThickness = 3
+        Me.Button4.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button4.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button4.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button4.FillColor = System.Drawing.Color.Transparent
+        Me.Button4.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button4.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button4.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button4.Image = CType(resources.GetObject("Button4.Image"), System.Drawing.Image)
+        Me.Button4.ImageOffset = New System.Drawing.Point(24, -15)
+        Me.Button4.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button4.Location = New System.Drawing.Point(512, 79)
+        Me.Button4.Name = "Button4"
+        Me.Button4.ShadowDecoration.BorderRadius = 10
+        Me.Button4.ShadowDecoration.Depth = 10
+        Me.Button4.ShadowDecoration.Enabled = True
+        Me.Button4.Size = New System.Drawing.Size(174, 194)
+        Me.Button4.TabIndex = 11
+        Me.Button4.Text = "Nimesh"
+        Me.Button4.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Button3
+        '
+        Me.Button3.Animated = True
+        Me.Button3.BackColor = System.Drawing.Color.Transparent
+        Me.Button3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button3.BorderRadius = 10
+        Me.Button3.BorderThickness = 3
+        Me.Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button3.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button3.FillColor = System.Drawing.Color.Transparent
+        Me.Button3.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button3.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button3.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button3.Image = CType(resources.GetObject("Button3.Image"), System.Drawing.Image)
+        Me.Button3.ImageOffset = New System.Drawing.Point(26, -15)
+        Me.Button3.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button3.Location = New System.Drawing.Point(278, 79)
+        Me.Button3.Name = "Button3"
+        Me.Button3.ShadowDecoration.BorderRadius = 10
+        Me.Button3.ShadowDecoration.Depth = 10
+        Me.Button3.ShadowDecoration.Enabled = True
+        Me.Button3.Size = New System.Drawing.Size(174, 194)
+        Me.Button3.TabIndex = 10
+        Me.Button3.Text = "Lakshya"
+        Me.Button3.TextOffset = New System.Drawing.Point(-30, 68)
+        '
+        'Guna2HtmlLabel3
+        '
+        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
+        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Solway", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(46, 20)
+        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
+        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(217, 41)
+        Me.Guna2HtmlLabel3.TabIndex = 9
+        Me.Guna2HtmlLabel3.Text = "Choose Barber :"
+        '
+        'Button1
+        '
+        Me.Button1.Animated = True
+        Me.Button1.BackColor = System.Drawing.Color.Transparent
+        Me.Button1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button1.BorderRadius = 10
+        Me.Button1.BorderThickness = 3
+        Me.Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
+        Me.Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
+        Me.Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
+        Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
+        Me.Button1.FillColor = System.Drawing.Color.Transparent
+        Me.Button1.FillColor2 = System.Drawing.Color.Transparent
+        Me.Button1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
+        Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
+        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
+        Me.Button1.ImageOffset = New System.Drawing.Point(19, -15)
+        Me.Button1.ImageSize = New System.Drawing.Size(120, 120)
+        Me.Button1.Location = New System.Drawing.Point(47, 79)
+        Me.Button1.Name = "Button1"
+        Me.Button1.ShadowDecoration.BorderRadius = 10
+        Me.Button1.ShadowDecoration.Depth = 10
+        Me.Button1.ShadowDecoration.Enabled = True
+        Me.Button1.Size = New System.Drawing.Size(174, 194)
+        Me.Button1.TabIndex = 7
+        Me.Button1.Text = "Mohit"
+        Me.Button1.TextOffset = New System.Drawing.Point(-30, 68)
         '
         'ReChoose
         '
@@ -557,188 +739,6 @@ Partial Class Form3
         Me.Guna2GradientButton10.TabIndex = 15
         Me.Guna2GradientButton10.Text = "10:00 - 11:00"
         '
-        'Panel1
-        '
-        Me.Panel1.BackColor = System.Drawing.Color.Transparent
-        Me.Panel1.BorderRadius = 30
-        Me.Panel1.Controls.Add(Me.Button6)
-        Me.Panel1.Controls.Add(Me.Button5)
-        Me.Panel1.Controls.Add(Me.Button4)
-        Me.Panel1.Controls.Add(Me.Button3)
-        Me.Panel1.Controls.Add(Me.Guna2HtmlLabel3)
-        Me.Panel1.Controls.Add(Me.Button1)
-        Me.Panel1.FillColor = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Panel1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(57, Byte), Integer), CType(CType(49, Byte), Integer), CType(CType(42, Byte), Integer))
-        Me.Panel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(237, Byte), Integer), CType(CType(206, Byte), Integer), CType(CType(154, Byte), Integer))
-        Me.Panel1.Location = New System.Drawing.Point(54, 40)
-        Me.Panel1.Name = "Panel1"
-        Me.Panel1.ShadowDecoration.BorderRadius = 30
-        Me.Panel1.ShadowDecoration.Depth = 20
-        Me.Panel1.ShadowDecoration.Enabled = True
-        Me.Panel1.Size = New System.Drawing.Size(1190, 318)
-        Me.Panel1.TabIndex = 0
-        '
-        'Button6
-        '
-        Me.Button6.Animated = True
-        Me.Button6.BackColor = System.Drawing.Color.Transparent
-        Me.Button6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button6.BorderRadius = 10
-        Me.Button6.BorderThickness = 3
-        Me.Button6.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button6.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button6.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button6.FillColor = System.Drawing.Color.Transparent
-        Me.Button6.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button6.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button6.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button6.Image = CType(resources.GetObject("Button6.Image"), System.Drawing.Image)
-        Me.Button6.ImageOffset = New System.Drawing.Point(19, -15)
-        Me.Button6.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button6.Location = New System.Drawing.Point(968, 79)
-        Me.Button6.Name = "Button6"
-        Me.Button6.ShadowDecoration.BorderRadius = 10
-        Me.Button6.ShadowDecoration.Depth = 10
-        Me.Button6.ShadowDecoration.Enabled = True
-        Me.Button6.Size = New System.Drawing.Size(174, 194)
-        Me.Button6.TabIndex = 13
-        Me.Button6.Text = "Mohit"
-        Me.Button6.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Button5
-        '
-        Me.Button5.Animated = True
-        Me.Button5.BackColor = System.Drawing.Color.Transparent
-        Me.Button5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button5.BorderRadius = 10
-        Me.Button5.BorderThickness = 3
-        Me.Button5.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button5.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button5.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button5.FillColor = System.Drawing.Color.Transparent
-        Me.Button5.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button5.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button5.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button5.Image = CType(resources.GetObject("Button5.Image"), System.Drawing.Image)
-        Me.Button5.ImageOffset = New System.Drawing.Point(22, -15)
-        Me.Button5.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button5.Location = New System.Drawing.Point(740, 79)
-        Me.Button5.Name = "Button5"
-        Me.Button5.ShadowDecoration.BorderRadius = 10
-        Me.Button5.ShadowDecoration.Depth = 10
-        Me.Button5.ShadowDecoration.Enabled = True
-        Me.Button5.Size = New System.Drawing.Size(174, 194)
-        Me.Button5.TabIndex = 12
-        Me.Button5.Text = "Jasprit"
-        Me.Button5.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Button4
-        '
-        Me.Button4.Animated = True
-        Me.Button4.BackColor = System.Drawing.Color.Transparent
-        Me.Button4.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button4.BorderRadius = 10
-        Me.Button4.BorderThickness = 3
-        Me.Button4.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button4.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button4.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button4.FillColor = System.Drawing.Color.Transparent
-        Me.Button4.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button4.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button4.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button4.Image = CType(resources.GetObject("Button4.Image"), System.Drawing.Image)
-        Me.Button4.ImageOffset = New System.Drawing.Point(24, -15)
-        Me.Button4.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button4.Location = New System.Drawing.Point(512, 79)
-        Me.Button4.Name = "Button4"
-        Me.Button4.ShadowDecoration.BorderRadius = 10
-        Me.Button4.ShadowDecoration.Depth = 10
-        Me.Button4.ShadowDecoration.Enabled = True
-        Me.Button4.Size = New System.Drawing.Size(174, 194)
-        Me.Button4.TabIndex = 11
-        Me.Button4.Text = "Nimesh"
-        Me.Button4.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Button3
-        '
-        Me.Button3.Animated = True
-        Me.Button3.BackColor = System.Drawing.Color.Transparent
-        Me.Button3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button3.BorderRadius = 10
-        Me.Button3.BorderThickness = 3
-        Me.Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button3.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button3.FillColor = System.Drawing.Color.Transparent
-        Me.Button3.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button3.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button3.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button3.Image = CType(resources.GetObject("Button3.Image"), System.Drawing.Image)
-        Me.Button3.ImageOffset = New System.Drawing.Point(26, -15)
-        Me.Button3.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button3.Location = New System.Drawing.Point(278, 79)
-        Me.Button3.Name = "Button3"
-        Me.Button3.ShadowDecoration.BorderRadius = 10
-        Me.Button3.ShadowDecoration.Depth = 10
-        Me.Button3.ShadowDecoration.Enabled = True
-        Me.Button3.Size = New System.Drawing.Size(174, 194)
-        Me.Button3.TabIndex = 10
-        Me.Button3.Text = "Lakshya"
-        Me.Button3.TextOffset = New System.Drawing.Point(-30, 68)
-        '
-        'Guna2HtmlLabel3
-        '
-        Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
-        Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Solway", 16.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(46, 20)
-        Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
-        Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(217, 41)
-        Me.Guna2HtmlLabel3.TabIndex = 9
-        Me.Guna2HtmlLabel3.Text = "Choose Barber :"
-        '
-        'Button1
-        '
-        Me.Button1.Animated = True
-        Me.Button1.BackColor = System.Drawing.Color.Transparent
-        Me.Button1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button1.BorderRadius = 10
-        Me.Button1.BorderThickness = 3
-        Me.Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray
-        Me.Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
-        Me.Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
-        Me.Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.Button1.FillColor = System.Drawing.Color.Transparent
-        Me.Button1.FillColor2 = System.Drawing.Color.Transparent
-        Me.Button1.Font = New System.Drawing.Font("Solway", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(233, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(193, Byte), Integer))
-        Me.Button1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal
-        Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
-        Me.Button1.ImageOffset = New System.Drawing.Point(19, -15)
-        Me.Button1.ImageSize = New System.Drawing.Size(120, 120)
-        Me.Button1.Location = New System.Drawing.Point(47, 79)
-        Me.Button1.Name = "Button1"
-        Me.Button1.ShadowDecoration.BorderRadius = 10
-        Me.Button1.ShadowDecoration.Depth = 10
-        Me.Button1.ShadowDecoration.Enabled = True
-        Me.Button1.Size = New System.Drawing.Size(174, 194)
-        Me.Button1.TabIndex = 7
-        Me.Button1.Text = "Mohit"
-        Me.Button1.TextOffset = New System.Drawing.Point(-30, 68)
-        '
         'Guna2HtmlLabel7
         '
         Me.Guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent
@@ -754,6 +754,7 @@ Partial Class Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoScroll = True
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(1902, 953)
@@ -772,6 +773,8 @@ Partial Class Form3
         Me.Guna2GradientPanel1.ResumeLayout(False)
         Me.Guna2GradientPanel1.PerformLayout()
         Me.Guna2GradientPanel4.ResumeLayout(False)
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
         Me.Guna2GradientPanel2.ResumeLayout(False)
         Me.Guna2GradientPanel2.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
@@ -779,8 +782,6 @@ Partial Class Form3
         CType(Me.SelectedBarber, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Groupbox2.ResumeLayout(False)
         Me.Groupbox2.PerformLayout()
-        Me.Panel1.ResumeLayout(False)
-        Me.Panel1.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
