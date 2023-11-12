@@ -1,1 +1,1 @@
-The Ultimate Salon Booking System
+KNK Salon - A Salon Booking System
